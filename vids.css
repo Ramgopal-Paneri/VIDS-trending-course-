@@ -43,7 +43,7 @@ border-bottom:rgba(20, 1, 1, 0.829) .2rem groove ;
         display: flex;
         flex-direction: row;
         gap: 1px;
-    }
+    }.header .search input{width: min-content;}
     .header{
         justify-content: space-around;
     grid-template-columns: auto auto auto;
