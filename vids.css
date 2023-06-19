@@ -42,7 +42,7 @@ border-bottom:rgba(20, 1, 1, 0.829) .2rem groove ;
         font-size: medium;
         display: flex;
         flex-direction: row;
-        gap: 2px;
+        gap: 1px;
     }
     .header{
         justify-content: space-around;
