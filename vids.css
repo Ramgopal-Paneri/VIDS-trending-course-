@@ -85,6 +85,7 @@ height: 40%;
 border: #f8f4f4 groove .5rem;
 border-radius: 3rem; 
 margin: 2rem 0;
+cursor: pointer;
 }.card:hover {
     border: #000111 groove .5rem;
 }
