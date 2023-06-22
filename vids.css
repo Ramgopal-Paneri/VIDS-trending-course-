@@ -199,7 +199,7 @@ flex-basis: 100%;
             opacity: 0;
             filter: blur(5px);
             transform: translateX(-100%);
-            transition: all 1.3s;
+            transition: all .9s;
         }
         @media(prefers-reduced-motion){
             .hidden{
